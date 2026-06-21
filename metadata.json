@@ -1,0 +1,8 @@
+{
+  "name": "Budget & Expenditure Statement",
+  "description": "Secure Google Sheets backend budget and expenditure statement logging portal for the Block Medical Officer, Sopore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
